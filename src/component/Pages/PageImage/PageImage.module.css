@@ -1,0 +1,7 @@
+.listPhoto {
+    display: flex;
+}
+.listPhoto__inner {
+    display: flex;
+    flex-wrap: wrap;
+}
